@@ -19,8 +19,8 @@ public class Objective4Lab2 {
     double dub3 = keyboard.nextDouble();
     int numAnswer = num1 + num2 + num3;
     double dubAnswer = dub1 + dub2 + dub3;
-    System.out.println("The sum of "+num1+"+ "+num2+" + "+num3+" = "+numAnswer);
-    System.out.println("The sum of "+dub1+"+ "+dub2+" + "+dub3+" = "+dubAnswer);
+    System.out.println("The sum of "+num1+" + "+num2+" + "+num3+" = "+numAnswer);
+    System.out.println("The sum of "+dub1+" + "+dub2+" + "+dub3+" = "+dubAnswer);
 
     //TODO prompt the user to get input for all of the above int variables.
 
