@@ -5,12 +5,12 @@ public class Objective5Lab3 {
     Scanner scanner = new Scanner(System.in);
 
     System.out.print("Please enter a number: "); 
-    int number = scanner.nextInt();
+    int userNum = scanner.nextInt();
 
-    if (number > 0) { 
+    if (userNum > 0) { 
       System.out.println("The number is positive.");
     } 
-    else if (number < 0) { 
+    else if (userNum < 0) { 
       System.out.println("The number is negative.");
     } 
     else { 
