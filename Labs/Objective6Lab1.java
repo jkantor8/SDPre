@@ -40,7 +40,7 @@ switch (month) {
         System.out.println("December");
         break;
     default:
-        System.out.println("hat is not a valid month");
+        System.out.println("That is not a valid month");
         break;
 }
 }
